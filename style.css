@@ -1,0 +1,10 @@
+.container {
+  width: fit-content;
+  margin: auto;
+  padding: 10px;
+  background-color: beige;
+}
+img {
+  width: 100px;
+  height: 143px;
+}
